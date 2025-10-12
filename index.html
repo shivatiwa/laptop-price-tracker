@@ -1,46 +1,68 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Laptop Price Tracker</title>
   <style>
-    body { font-family: sans-serif; padding: 20px; }
-    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-    th, td { border: 1px solid #ccc; padding: 8px; }
-    th { background: #eee; }
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { display: flex; align-items: center; }
+    table { border-collapse: collapse; width: 100%; margin-top: 15px; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background-color: #f2f2f2; }
+    td:nth-child(3), td:nth-child(4), td:nth-child(5) { text-align: right; }
   </style>
 </head>
 <body>
   <h1>💻 Laptop Price Tracker</h1>
   <p>Showing laptops with Intel + RTX 4060 / 4070 sorted by discount</p>
-  <p>Last updated: <span id="last"></span></p>
-  <table id="tbl">
+  <p>Last updated: <span id="last-updated">Loading...</span></p>
+
+  <table id="product-table">
     <thead>
-      <tr><th>Title</th><th>Site</th><th>Price</th><th>MRP</th><th>Discount %</th></tr>
+      <tr>
+        <th>Title</th>
+        <th>Site</th>
+        <th>Price</th>
+        <th>MRP</th>
+        <th>Discount %</th>
+      </tr>
     </thead>
     <tbody></tbody>
   </table>
 
-<script>
-async function load() {
-  const res = await fetch('data/products.json?'+Date.now());
-  const data = await res.json();
-  const tbody = document.querySelector("#tbl tbody");
-  tbody.innerHTML = "";
-  document.getElementById("last").textContent = new Date(data.last_updated*1000).toLocaleString();
-  data.products.forEach(p => {
-    const tr = document.createElement('tr');
-    tr.innerHTML = `
-      <td><a href="${p.link}" target="_blank">${p.title}</a></td>
-      <td>${p.site}</td>
-      <td>₹${p.price}</td>
-      <td>₹${p.mrp}</td>
-      <td>${p.discount}%</td>
-    `;
-    tbody.appendChild(tr);
-  });
-}
-load();
-</script>
+  <script>
+    fetch('data/products.json')
+      .then(res => res.json())
+      .then(data => {
+        // Update last updated date
+        if (data.last_updated) {
+          document.getElementById('last-updated').textContent =
+            new Date(data.last_updated).toLocaleString();
+        } else {
+          document.getElementById('last-updated').textContent = "No data yet";
+        }
+
+        const products = data.products || [];
+        const tbody = document.querySelector('#product-table tbody');
+        tbody.innerHTML = "";
+
+        products.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.title}</td>
+            <td>${item.site}</td>
+            <td>₹${item.price.toLocaleString()}</td>
+            <td>-</td>
+            <td>-</td>
+          `;
+          tbody.appendChild(row);
+        });
+      })
+      .catch(err => {
+        console.error(err);
+        document.getElementById('last-updated').textContent = "Error loading data";
+      });
+  </script>
 </body>
 </html>
