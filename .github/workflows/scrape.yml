@@ -3,10 +3,10 @@ name: Scrape Laptop Prices
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"  # optional: runs daily at 12:00 UTC
+    - cron: "0 12 * * *"  # runs daily at 12:00 UTC
 
 permissions:
-  contents: write   # this line gives the bot push permission
+  contents: write
 
 jobs:
   scrape:
