@@ -1,4 +1,95 @@
 {
-  "last_updated": "2025-10-22T12:27:50.642873",
-  "products": []
+  "last_updated": "2025-10-23T12:27:05.605573",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, FHD 15.6\", Windows 11, Office Home 2024, Quiet Blue, 1.7Kg, M1502YA-BQ703WS, AMD Radeon iGPU, M365 Basic (1Year)*, 42Whr Laptop",
+      "price": 41990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
+      "price": 35490
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo 14 (2025), Intel Core i5 12th Gen 1235U - (24 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" FHD Display/Iron Grey/1.4 kg/MSO 2021/1 Year ADP Warranty",
+      "price": 47990
+    },
+    {
+      "site": "Amazon",
+      "title": "Comfyable Puffy Laptop Sleeve 13 Inch 14 Inch, Quilted Puffer Laptop Carrying Case for Women, Pillow Case Compatible for MacBook Air M4 M3 M2 M1, MacBook Pro 13 Inch 14 Inch, 13 in 14 in Cover, Black",
+      "price": 2519
+    },
+    {
+      "site": "Amazon",
+      "title": "acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
+      "price": 28990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15,Intel Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",
+      "price": 63990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Pavilion x360, 13th Gen Intel Core i5-1335U (16GB DDR4, 512GB SSD) Touchscreen, 14\"/35.6cm, FHD, Win 11, Office 21, Silver, 1.51kg, ek1074tu/1148tu, Iris Xe, FPR, 5MP Camera, Backlit KB Laptop",
+      "price": 64490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Professional 14 (2025), Intel Core i5 13th Gen 1334U - (32 GB/512 GB SSD/Intel Iris Xe Graphic/Windows 11 Pro) Thin and Light Business Laptop/14.0\" FHD/Backlit + Fingerprint/Silver/1.4 Kg/MSO 2021",
+      "price": 55990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg, AL15-41, Metal Body, Thin and Light Laptop",
+      "price": 32490
+    },
+    {
+      "site": "Amazon",
+      "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6\") HD Display, Pure Silver, 1.5 KG",
+      "price": 20990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire Lite, Intel Core i5 13th Gen - 1334U, 16GB RAM, 512GB SSD, Full HD 15.6\"/39.62 cm, Windows 11 Home, MS Office, Steel Gray, 1.59 KG, AL15-53, Metal Body, Thin and Light Premium Laptop",
+      "price": 41990
+    },
+    {
+      "site": "Amazon",
+      "title": "JioBook 11 with Lifetime Office | Android 4G Laptop Mediatek 8788 (JioOS) | Octa-core | 4GB RAM | 64 eMMC Storage | Thin and Light Laptop (11.6 inch, 990 Grams) | Dual Band WiFi + SIM | Blue",
+      "price": 10990
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15DC15250, Intel Core i5 13th Gen - 1334U, 16GB RAM, 1TB SSD, FHD 15.6\"/39.62 cm, Windows 11, MSO'24, Silver, 1.62kg, Backlit Keyboard, 15 Month McAfee, Thin & Light Laptop",
+      "price": 54990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
+      "price": 45460
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14\", Windows 11, Office Home 2024, Mixed Black, 1.38 kg, E1404FA-NK3325WS, AMD Radeon iGPU, M365 Basic (1Year)*, Thin & Light Laptop",
+      "price": 28850
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS, Gaming Laptop(RTX 3050,75W TGP,16GB DDR5(Upgradeable Upto 64GB )512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,48Whrs,Windows 11,Graphite Black,2.3 Kg) FA506NCG-HN199W",
+      "price": 63990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, 13th Gen Intel Core i5-1334U, (16GB DDR4,512GB SSD) Anti-Glare, Micro-Edge, FHD, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0577TU, Iris Xe, FHD Camera w/Shutter Laptop",
+      "price": 51990
+    },
+    {
+      "site": "Amazon",
+      "title": "V-CUBE DESIGNS Premium Vegan Leather Desk Mat 90X45cm 2.4mm Thick&Padded|Laptop Mat/Extended Mouse Pad/Stitched, Reversible, Sturdy Deskspread with High Tear/Peel Strength|Anti-Slip,Splash-Proof|Blue",
+      "price": 786
+    }
+  ]
 }
