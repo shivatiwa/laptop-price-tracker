@@ -1,4 +1,95 @@
 {
-  "last_updated": "2026-01-21T12:33:17.533624",
-  "products": []
+  "last_updated": "2026-01-22T12:32:07.929189",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "Neopticon BrowseBook 14.1\" FHD IPS Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB RAM | 128GB SSD | Windows 11 | 38Wh | 1.3kg | Grey",
+      "price": 12190
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
+      "price": 39490
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14\", Windows 11, Office Home 2024, Mixed Black, 1.38 kg, E1404FA-NK3325WS, AMD Radeon iGPU, M365 Basic (1Year)*, Thin & Light Laptop",
+      "price": 31891
+    },
+    {
+      "site": "Amazon",
+      "title": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x, 1TB SSD) 2K, 14''/35.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.35kg, he0015QU, Light-Weight, Next-Gen AI Laptop",
+      "price": 65990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, AMD Ryzen 3 7320U (8GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fc0500AU, FHD Camera w/Privacy Shutter Laptop",
+      "price": 33990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo {SmartChoice)Chromebook Intel Celeron N4500 (4GB RAM/64GB eMMC 5.1/11.6 Inch (29.46cm)/HD Display/2Wx2 Stereo Speakers/HD Camera/Chrome OS/Blue/1.21Kg), 82UY0014HA",
+      "price": 12990
+    },
+    {
+      "site": "Amazon",
+      "title": "Ienovo ThinkPad L490 | InteI Core i5 8th Gen Processor | 8GB RAM | 256GB SSD | 14-inch FHD Display | Win 10 pro | A+ Condition Tested Laptop",
+      "price": 21999
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo IdeaPad Slim 1 AMD Ryzen 5 5500U 15.6\" HD Thin and Light Laptop (8GB/512GB SSD/Windows 11 Home/Office Home 2024/1 Year ADP Free/Grey/1.6Kg), 82R4011MIN",
+      "price": 35000
+    },
+    {
+      "site": "Amazon",
+      "title": "JioBook 11 with Lifetime Office | Android 4G Laptop Mediatek 8788 (JioOS) | Octa-core | 4GB RAM | 64 eMMC Storage | Thin and Light Laptop (11.6 inch, 990 Grams) | Dual Band WiFi + SIM | Blue",
+      "price": 10990
+    },
+    {
+      "site": "Amazon",
+      "title": "Thomson NEO 14.1 Inch IN-N14C Intel Dual Core Processor Windows 11 Home Notebook (8 GB RAM DDR4/ 512 GB SSD/Thin & Light Weight/Black/High Battery Backup up to 8 Hrs)",
+      "price": 15490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 Laptop, AMD Ryzen 5 7520U (16GB DDR5,512GB SSD) Win11,M365 Basic(1yr)*Office Home24, Anti-Glare,15.6''/39.6cm,FHD,Backlit KB,FHD Camera w/Privacy Shutter,Radeon Graphics, Silver,1.59kg FC0690AU",
+      "price": 43490
+    },
+    {
+      "site": "Amazon",
+      "title": "acer Aspire 3, Intel Core Celeron N4500, 12GB LPDDR4X RAM, 512GB SSD, HD, 15.6\"/39.62cm, Windows 11 Home, Pure Silver, 1.5KG, A325-45, Thin and Light Laptop",
+      "price": 26990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo Ideapad Slim 3 AMD Ryzen 5 7520U 15.6\" (39.6cm) FHD Thin and Light Laptop (16GB/512GB SSD/Windows 11/Microsoft 365 Basic + Office Home 2024/Backlit Keyboard/Grey/1.6Kg), 82XQ00XDIN",
+      "price": 40990
+    },
+    {
+      "site": "Amazon",
+      "title": "Ultimus Pentium Quad Core Laptop|Student & Office Work Laptop|Dual Storage eMMC+SSD Expandable~1TB|1.2Kg|180° Hinge|Win 11 Home|4GB RAM 128GB|HDMI SD Card Slot | ‎Dual Speaker|Matt Silver",
+      "price": 12490
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo Smartchoice IdeaPad Slim 3 13th Gen Core i7-13620H 15.3\" (38.8cm) WUXGA IPS Laptop (16GB RAM/512GB SSD/Win 11/Office 2024/Backlit/Top Metal Cover & IR Camera/Grey/1.6Kg),83K100CJIN/S1IN",
+      "price": 63990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 14s, Intel Celeron N4500 Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge, 14/35.6cm, HD, Win11, M365 Basic(1yr),Office Home24, Black,1.46kg, HD Camera, UHD Graphics, dq3141TU",
+      "price": 26990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, AMD Ryzen 7 5825U (16GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge,15.6''/39.6cm, Win11, M365(1yr)* Office24, Silver, 1.59kg, fc0476AU, Radeon Graphics, FHD Camera w/Shutter, Backlit Laptop",
+      "price": 48490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",
+      "price": 63990
+    }
+  ]
 }
