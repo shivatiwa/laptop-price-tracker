@@ -1,4 +1,85 @@
 {
-  "last_updated": "2026-03-04T12:39:23.047604",
-  "products": []
+  "last_updated": "2026-03-05T12:41:17.308754",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "EBook 11.6\" HD Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB DDR4 | 128GB eMMC + M.2 SSD Expandable Slot | Win 11 Home |31Wh Battery | UHD Graphics 600 | Black",
+      "price": 11990
+    },
+    {
+      "site": "Amazon",
+      "title": "acer Aspire 3, Intel Pentium N6000, 12GB LPDDR4X RAM, 512GB SSD, HD, 15.6\"/39.62cm, Windows 11 Home, Pure Silver, 1.5KG, A325-45, Thin and Light Laptop",
+      "price": 28990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 16 (2026), AMD Ryzen AI 7 445, AMD Radeon iGPU, 16GB RAM, 512GB SSD, FHD+, 16\", (40 cm), Windows 11, M365 Basic(1 Year)* Office 2024, Quiet Blue, 1.88 kg, M1607GA-MB030WS, Co-Pilot+ PC",
+      "price": 84990
+    },
+    {
+      "site": "Amazon",
+      "title": "acer Aspire Go 14,14th Gen, Intel Core Ultra 5 125H, 16GB DDR5, 512GB, WUXGA IPS, 14.0\"/35.56cm, Win 11, MS Office, Steel Gray, 1.5 kg, AG14-71M, Backlit KB, AI Powered Laptop",
+      "price": 52517
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, AMD Ryzen 7 7735HS (16GB DDR5,512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fc1038AU, AMD Radeon FHD Camera w/Shutter, Backlit Laptop",
+      "price": 60990
+    },
+    {
+      "site": "Amazon",
+      "title": "acer Nitro V 15, AMD Ryzen 7-7445HS, NVIDIA GeForce RTX 4050-6 GB, 16GB DDR5, 512GB SSD, FHD IPS, 15.6\"/39.62cm, 165Hz, Win 11 Home, Obsidian Black, 2.1KG, ANV15-42, Gaming Laptop",
+      "price": 76990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, Intel Core 3 100U (16GB DDR5, 512GB SSD), Micro-Edge, Anti-Glare, 15.6''/39.6cm, Win11, M365* Office24, Silver, 1.59kg, fd0885TU, FHD Camera, Backlit, Dual Speakers Laptop",
+      "price": 47990
+    },
+    {
+      "site": "Amazon",
+      "title": "BrowseBook 14.1\" FHD IPS Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB RAM | 128GB SSD | Windows 11 | 38Wh | 1.3kg | Grey",
+      "price": 12990
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB RAM, 1TB SSD) FHD, Anti-Glare 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Silver, 1.62kg, 12 Month McAfee, Thin & Light, Backlit Keyboard Laptop",
+      "price": 60490
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo IdeaPad Slim 3, 13th Gen Intel Core i5 13420H, 24GB RAM, 1TB SSD, WUXGA IPS, 15.3\"/38.8cm, Windows 11, Office Home 2024, Grey, 1.6Kg, Backlit Keyboard, 1Yr ADP Free, 83K100PLIN, Laptop",
+      "price": 70990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo Smartchoice Ideapad Slim 3, 13th Gen Intel Core i7 13620H, 16GB RAM, 512GB SSD, WUXGA IPS, 15.3\"/38.8cm, Win 11, Office 2024, Top Metal Cover Grey, 1.6Kg, 83K100CJIN/S1IN, Backlit KB, Laptop",
+      "price": 75990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS, Gaming Laptop(RTX 3050,75W TGP,16GB DDR5(Upgradeable Upto 64GB )512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,48Whrs,Windows 11,Graphite Black,2.3 Kg) FA506NCG-HN199W",
+      "price": 66990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Omnibook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x,1TB SSD) 2K OLED,16''/40.6cm, Win11, M365*Office24, Glacier Silver, 1.59kg, fb0001QU, Backlit, Next-Gen AI Laptop",
+      "price": 66326
+    },
+    {
+      "site": "Amazon",
+      "title": "MSI Thin 15, Intel 13th Gen. Core i5-13420H, 40CM FHD 144Hz Gaming Laptop(16GB/512GB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 3050,GDDR6 4GB/Cosmos Gray/1.86Kg), B13UC-1805IN",
+      "price": 60695
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Professional 14 (2025), Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" HD Display/Turbo Silver/1.4 Kg/MSO 2021",
+      "price": 45650
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo {SmartChoice Chromebook, Intel Celeron N4500, 4GB RAM, 64GB eMMC, HD, 11.6\"/29.46cm, Chrome OS, Blue, 1.21Kg, 2Wx2 Stereo Speakers, HD Camera, 82UY0014HA, Laptop",
+      "price": 15990
+    }
+  ]
 }
