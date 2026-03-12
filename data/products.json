@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T12:40:53.657620",
+  "last_updated": "2026-03-12T12:40:33.592872",
   "products": [
     {
       "site": "Amazon",
@@ -13,8 +13,13 @@
     },
     {
       "site": "Amazon",
-      "title": "HP 15 255R G10, AMD Ryzen 5 7535U Hexa Core (6 Core, 12 Threads, 2.9 to Max 4.3 Ghz) (8 GB/512 GB SSD/AMD Radeon Graphics/Windows 11) Thin and Light Laptop(15.6 inch HD Display, Matt Silver, 1.45 kg",
-      "price": 40990
+      "title": "ASUS Zenbook 14 (2026), AMD Ryzen AI 5 430, AMD Radeon iGPU, 16GB RAM, 1TB SSD, FHD+, 14\", (35.5 cm), Windows 11, M365 Basic(1 Year)* Office 2024, Jade Black, 1.28 kg, UM3406GA-QL119WS, Co-Pilot+ PC",
+      "price": 112990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11/MS Office,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+      "price": 34999
     },
     {
       "site": "Amazon",
@@ -28,23 +33,13 @@
     },
     {
       "site": "Amazon",
-      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare FHD 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Grey, 1.66kg, [Vostro 3530], 12 Month McAfee, Thin & Light Laptop",
-      "price": 56990
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo {SmartChoice Chromebook, Intel Celeron N4500, 4GB RAM, 64GB eMMC, HD, 11.6\"/29.46cm, Chrome OS, Blue, 1.21Kg, 2Wx2 Stereo Speakers, HD Camera, 82UY0014HA, Laptop",
-      "price": 15990
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo Smartchoice Ideapad Slim 3, 13th Gen Intel Core i7 13620H, 16GB RAM, 512GB SSD, WUXGA IPS, 15.3\"/38.8cm, Win 11, Office 2024, Top Metal Cover Grey, 1.6Kg, 83K100CJIN/S1IN, Backlit KB, Laptop",
-      "price": 75990
-    },
-    {
-      "site": "Amazon",
       "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
       "price": 66990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo 14 (2025), Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" FHD Display/Iron Grey/1.4 kg/Microsoft Office 2021",
+      "price": 53100
     },
     {
       "site": "Amazon",
@@ -53,18 +48,18 @@
     },
     {
       "site": "Amazon",
-      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11/MS Office,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
-      "price": 34999
+      "title": "Lenovo Smartchoice Ideapad Slim 3, 13th Gen Intel Core i7 13620H, 16GB RAM, 512GB SSD, WUXGA IPS, 15.3\"/38.8cm, Win 11, Office 2024, Top Metal Cover Grey, 1.6Kg, 83K100CJIN/S1IN, Backlit KB, Laptop",
+      "price": 75990
     },
     {
       "site": "Amazon",
-      "title": "Model T490s | InteI Core i5 8th Gen Processor | 8GB RAM | 256GB SSD | 14-inch FHD Display | Win 10 pro | A+ Condition Laptop (Refab)",
-      "price": 22995
+      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB RAM, 1TB SSD) FHD, Anti-Glare 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Silver, 1.62kg, 12 Month McAfee, Thin & Light, Backlit Keyboard Laptop",
+      "price": 60490
     },
     {
       "site": "Amazon",
-      "title": "Lenovo 14 (2025), Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" FHD Display/Iron Grey/1.4 kg/Microsoft Office 2021",
-      "price": 53260
+      "title": "acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg, AL15-41, Metal Body, Thin and Light Laptop",
+      "price": 41990
     },
     {
       "site": "Amazon",
@@ -73,13 +68,18 @@
     },
     {
       "site": "Amazon",
-      "title": "HP Professional 14 (2025), Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" HD Display/Turbo Silver/1.4 Kg/MSO 2021",
-      "price": 45260
+      "title": "Model T490s | InteI Core i5 8th Gen Processor | 8GB RAM | 256GB SSD | 14-inch FHD Display | Win 10 pro | A+ Condition Laptop (Refab)",
+      "price": 23995
     },
     {
       "site": "Amazon",
-      "title": "Thomson NEO 14.1 inch IN-P14N Intel celeron N100 12th Gen Upto 3.4GHz (Window 11/8 GB RAM LPDDR5 / 512 GB SSD/Numeric Touch Pad/Silver)",
-      "price": 18490
+      "title": "Lenovo IdeaPad 1 Intel Celeron N4500, 8GB RAM, 512GB SSD, HD 15.6\"(39.6cm), Windows 11, Grey, 1.55Kg, 82LX00F7IN, 3 Month Game Pass Laptop",
+      "price": 33550
+    },
+    {
+      "site": "Amazon",
+      "title": "AXL Laptop (Vayu Book) Newly Launched Thin & Light | 15.6 Inch HD Display (4GB/256GB SSD)",
+      "price": 12490
     }
   ]
 }
