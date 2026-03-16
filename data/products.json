@@ -1,55 +1,10 @@
 {
-  "last_updated": "2026-03-15T12:34:32.552109",
+  "last_updated": "2026-03-16T12:53:13.642742",
   "products": [
     {
       "site": "Amazon",
-      "title": "acer Nitro V 15, AMD Ryzen 7-7445HS, NVIDIA GeForce RTX 4050-6 GB, 16GB DDR5, 512GB SSD, FHD IPS, 15.6\"/39.62cm, 165Hz, Win 11 Home, Obsidian Black, 2.1KG, ANV15-42, Gaming Laptop",
-      "price": 76990
-    },
-    {
-      "site": "Amazon",
-      "title": "HP Omen, Intel Core i7-14650HX 14th Gen, 8GB RTX 5050, 24GB DDR5(Upgradeable) 1TB SSD, 165Hz, 2k WUXGA, 3ms, 400 nits, 16''/40.6cm, Win11, M365* Office24, Black, 2.43kg, am0241TX, RGB Gaming Laptop",
-      "price": 132990
-    },
-    {
-      "site": "Amazon",
-      "title": "HP 15-FD0079NS Laptop 15.6\" 16GB RAM 1TB SSD",
-      "price": 63999
-    },
-    {
-      "site": "Amazon",
-      "title": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x, 512GB SSD) 2K, 14''/35.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.35kg, he0014QU, Light-Weight, Next-Gen AI Laptop",
-      "price": 70990
-    },
-    {
-      "site": "Amazon",
-      "title": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x, 512GB SSD) 2K, 14''/35.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.35kg, he0014QU, Light-Weight, Next-Gen AI Laptop",
-      "price": 70990
-    },
-    {
-      "site": "Amazon",
-      "title": "Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",
-      "price": 19990
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo ThinkBook 16 AMD Ryzen 5 7535HS (8GB RAM/512GB SSD/Win 11 Home/Office 2024/Backlit Keyboard/Fingerprint) 16\" WUXGA IPS 300 Nits Thin & Light Laptop/1Y Warranty/Aluminium Top/1.7kg, 21MWA0BRIN",
-      "price": 51350
-    },
-    {
-      "site": "Amazon",
-      "title": "Primebook 2 Neo 2025 (New Launch) | 6GB RAM, 128GB Storage (Upgradable Upto 512GB) | MediaTek Helio G99 | Android 15 (PrimeOS3.0) | in-Built AI | 11.6” Thin & Light Laptop | Type-C, USB, MicroSD Ports",
-      "price": 15990
-    },
-    {
-      "site": "Amazon",
-      "title": "Primebook 2 Max 2025 (New Launch) | 8GB RAM, 256GB UFS Storage | 15.6-Inch Full HD IPS Display | 12hrs Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",
-      "price": 22990
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
-      "price": 49990
+      "title": "acer Aspire 3, Intel Pentium N6000, 12GB LPDDR4X RAM, 512GB SSD, HD, 15.6\"/39.62cm, Windows 11 Home, Pure Silver, 1.5KG, A325-45, Thin and Light Laptop",
+      "price": 33450
     },
     {
       "site": "Amazon",
@@ -58,43 +13,18 @@
     },
     {
       "site": "Amazon",
-      "title": "acer Aspire 3, Intel Pentium N6000, 12GB LPDDR4X RAM, 512GB SSD, HD, 15.6\"/39.62cm, Windows 11 Home, Pure Silver, 1.5KG, A325-45, Thin and Light Laptop",
-      "price": 33550
+      "title": "acer Nitro V 15 Gaming Laptop 15.6\" FHD IPS 165Hz Intel 8-core i5-13420H 16GB RAM 512GB SSD GeForce RTX 5050 GDDR7 DLSS4 (Up to 440 AI Tops) Backlit Thunderbolt WiFi6 Win11 ICP Hub",
+      "price": 109990
     },
     {
       "site": "Amazon",
-      "title": "ASUS Gaming V16 (2025), 14th Gen,Intel Core 7 240H Gaming Laptop(RTX 5050-8GB/16GB RAM/512GB SSD/FHD+/16\"/144Hz/Backlit Keyboard/Windows 11/M365*/Office Home 2024/Matte Black/1.95 Kg) V3607VH-RP038WS",
-      "price": 99990
+      "title": "BrowseBook 14.1\" FHD IPS Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB RAM | 128GB SSD | Windows 11 | 38Wh | 1.3kg | Grey",
+      "price": 12990
     },
     {
       "site": "Amazon",
-      "title": "Lenovo IdeaPad Slim 3, 13th Gen Intel Core i5 13420H, 24GB RAM, 1TB SSD, WUXGA IPS, 15.3\"/38.8cm, Windows 11, Office Home 2024, Grey, 1.6Kg, Backlit Keyboard, 1Yr ADP Free, 83K100PLIN, Laptop",
-      "price": 67990
-    },
-    {
-      "site": "Amazon",
-      "title": "Alienware 16X Aurora Gaming Laptop, AI Enabled Intel Core Ultra9 HX Processor, 32GB DDR5, 1TB SSD, NVIDIA GeForce RTX 5070, 8GB GDDR7, 16\" QHD+ 240Hz Display, Backlit KB, Interstellar Indigo, 2.66kg",
-      "price": 241990
-    },
-    {
-      "site": "Amazon",
-      "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
-      "price": 66990
-    },
-    {
-      "site": "Amazon",
-      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB RAM, 1TB SSD) FHD, Anti-Glare 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Silver, 1.62kg, 12 Month McAfee, Thin & Light, Backlit Keyboard Laptop",
-      "price": 60885
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11/MS Office,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
-      "price": 34999
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo Smartchoice Ideapad Slim 3, 13th Gen Intel Core i7 13620H, 16GB RAM, 512GB SSD, WUXGA IPS, 15.3\"/38.8cm, Win 11, Office 2024, Top Metal Cover Grey, 1.6Kg, 83K100CJIN/S1IN, Backlit KB, Laptop",
-      "price": 74990
+      "title": "EBook 11.6\" HD Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB DDR4 | 128GB eMMC + M.2 SSD Expandable Slot | Win 11 Home |31Wh Battery | UHD Graphics 600 | Black",
+      "price": 10990
     },
     {
       "site": "Amazon",
@@ -103,13 +33,53 @@
     },
     {
       "site": "Amazon",
-      "title": "HP Victus, AMD Ryzen 7 7445HS, 4GB RTX 2050, 16GB DDR5(Upgradable) 512GB SSD, FHD, 144Hz, 300 nits, IPS, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.29kg, fb3123AX, Backlit, Gaming Laptop",
-      "price": 64990
+      "title": "HP 15 255R G10, AMD Ryzen 5 7535U Hexa Core (6 Core, 12 Threads, 2.9 to Max 4.3 Ghz) (8 GB/512 GB SSD/AMD Radeon Graphics/Windows 11) Thin and Light Laptop(15.6 inch HD Display, Matt Silver, 1.45 kg",
+      "price": 40400
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11/MS Office,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+      "price": 37999
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare FHD 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Grey, 1.66kg, [Vostro 3530], 12 Month McAfee, Thin & Light Laptop",
+      "price": 56990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
+      "price": 49990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 255 G10 Laptop for Home or Work, 16GB RAM DDR5, 512GB SSD, 15.6\" Full HD, Ryzen 3 7335U (Beats Intel i5-1135G7), HDMI, USB-C, Windows 11",
+      "price": 42500
     },
     {
       "site": "Amazon",
       "title": "acer AspireGo14, Intel Core Ultra5 125H AI Processor,Office 2024 + M365 Basic, 16 GB RAM, 512 GB SSD, WUXGA IPS, 14.0\"/35.56 cm, Win 11 Home, Steel Gray, 1.5 kg, AG14-71M, Backlit KB, Premium Laptop",
-      "price": 52562
+      "price": 52500
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
+      "price": 76990
+    },
+    {
+      "site": "Amazon",
+      "title": "DᥱII Model 5580 | InteI Core i7 | 7th Gen | 8GB DDR4 RAM | 256GB SSD |2GB Graphics |14”FHD Display| Win10 | Ideal for Gaming & Video Editing | A+ Condition Laptop (Refab)",
+      "price": 25995
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook Go 14, AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD, FHD, 14\", 60Hz,42WHrs, Windows 11, M365 Basic (1Year)*,Office Home 2024, Mixed Black, 1.38 kg, E1404FA-EB774WS, Thin & Light Laptop",
+      "price": 44990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, AMD Ryzen 7 5825U, 16GB DDR4, 512GB SSD, 15.6-inch(39.6cm) Anti-Glare, FHD, Radeon Graphics, Backlit KB, 1080p HD cam (Win11, M365 Basic(1yr)*,Office Home24, Silver, 1.69kg) fc0533AU",
+      "price": 52990
     }
   ]
 }
