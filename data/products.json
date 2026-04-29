@@ -1,35 +1,15 @@
 {
-  "last_updated": "2026-04-27T13:21:00.330151",
+  "last_updated": "2026-04-29T13:26:13.746092",
   "products": [
-    {
-      "site": "Amazon",
-      "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
-      "price": 39890
-    },
-    {
-      "site": "Amazon",
-      "title": "acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg, AL15-41, Metal Body, Thin and Light Laptop",
-      "price": 45990
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo Yoga Slim 7 Intel Core Ultra 5 125H (16GB RAM/1TB SSD/14 (35.5cm)/WUXGA OLED/Copilot+ PC/Windows 11/MSO 365 Basic+Office 2024/1Yr ADP Free/Teal/1.39Kg), 83CV00G2IN",
-      "price": 86990
-    },
-    {
-      "site": "Amazon",
-      "title": "Apple 2026 MacBook Neo 13″ Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Indigo",
-      "price": 67900
-    },
-    {
-      "site": "Amazon",
-      "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
-      "price": 51990
-    },
     {
       "site": "Amazon",
       "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
       "price": 47890
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/DOS) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg",
+      "price": 39800
     },
     {
       "site": "Amazon",
@@ -38,33 +18,33 @@
     },
     {
       "site": "Amazon",
-      "title": "ASUS Zenbook A14 (2026),Snapdragon X2 Elite,NPU Upto 80TOPS,Qualcomm Adreno iGPU,16GB RAM,512GB SSD,FHD+ OLED, 14\"(35.5 cm),Win 11,M365 Basic(1Y),Office 24,Iceland Gray,0.99 Kg,UX3407NA-QD226WS,AI PC",
-      "price": 175990
+      "title": "Apple 2026 MacBook Neo 13″ Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Indigo",
+      "price": 67900
     },
     {
       "site": "Amazon",
-      "title": "Lenovo {SmartChoice Chromebook, Intel Celeron N4500, 4GB RAM, 64GB eMMC, HD, 11.6\"/29.46cm, Chrome OS, Blue, 1.21Kg, 2Wx2 Stereo Speakers, HD Camera, 82UY0014HA, Laptop",
-      "price": 21990
+      "title": "acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg, AL15-41, Metal Body, Thin and Light Laptop",
+      "price": 45990
     },
     {
       "site": "Amazon",
-      "title": "Model T490S Business Laptop | Core i7-8665U Processor (16GB DDR4 RAM- 256GB PCIe SSD -Win 10, 14.0\" FHD IPS Touch) (Tested & Pre Owned)",
-      "price": 27899
+      "title": "ASUS Chromebook CX1405 (2026), Intel N50 Processor, Intel UHD iGPU, 8GB RAM, 128GB SSD, FHD, 14\" (35.5 cm), Chrome OS, Pure Grey, 1.39 Kg, CX1405CTA-S60622, 42WHrs, Thin & Light Laptop",
+      "price": 32990
     },
     {
       "site": "Amazon",
-      "title": "ASUS Chromebook CX1405 (2025), Intel Core 3-N355, 8GB RAM, 128GB SSD, FHD 14\"(35.56cm), Chrome OS, Pure Grey, 1.38Kg, CX1405CTA-S60724, Intel UHD Graphics, 42WHrs, Thin & Light Laptop",
-      "price": 34490
+      "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
+      "price": 51990
     },
     {
       "site": "Amazon",
-      "title": "acer Professional 14, AMD Ryzen 3-7330U, 8 GB RAM, 512 GB SSD, Full HD 14\", Windows 11 Pro, MSO21, Pro Silver, 1.39 KG, Professional Premium Laptop, Travel Lite",
-      "price": 41990
+      "title": "Lenovo LOQ Intel Core i5-13450HX| NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/144Hz Refresh Rate/15.6\" (39.6cm)/Windows 11/Office Home 2024/3 Mon. Game Pass/Grey/2.4Kg), 83DV018MIN AI Gaming Laptop",
+      "price": 96990
     },
     {
       "site": "Amazon",
-      "title": "HP 255R G10 Notebook (AMD Athlon Silver 7120U /8GB/512GB/DOS) 15.6-inch(39.6cm), Anti-Glare, HD Laptop, Radeon Graphics, Silver,1.52kg",
-      "price": 39800
+      "title": "EBook 11.6\" HD Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB DDR4 | 128GB eMMC + M.2 SSD Expandable Slot | Win 11 Home |31Wh Battery | UHD Graphics 600 | Black",
+      "price": 11990
     },
     {
       "site": "Amazon",
@@ -73,23 +53,43 @@
     },
     {
       "site": "Amazon",
-      "title": "acer Aspire One, Intel Core Celeron N4500, Office 2024 + M365 Basic, 12GB LPDDR4X RAM/ 256GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.3KG, A114-45, Thin and Light Laptop",
-      "price": 35990
+      "title": "Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6\"(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",
+      "price": 54990
     },
     {
       "site": "Amazon",
-      "title": "𝗗𝗲𝗹𝗹Laptop 5410 Model | i7 10th Gen | 8GB DDR4 RAM | 256GB SSD | HD Graphics 620 14\" Screen | Win 10 Pro (Pre-Owned & Tested)",
-      "price": 27299
+      "title": "Dell G15, 13th Gen Intel Core i5-13450HX Processor, NVIDIA RTX 3050-6GB, (16GB RAM 1TB SSD) FHD 15.6\"/39.62 cm, Orange Backlit Keyboard, Win 11, MS Office'24, Dark Shadow Grey, 2.65Kg Gaming Laptop",
+      "price": 78990
     },
     {
       "site": "Amazon",
-      "title": "HP HyperX OMEN 15, AMD Ryzen 7 260, 8GB-RTX 5050, 24GB DDR5 (Upgradeable), 1TB SSD, 180Hz, 2.5K, 500 nits, 3ms resp time, 15.3''/38.9cm, Win11, Office24, Black, 2.42kg, gb0038AX, RGB, AI Gaming Laptop",
-      "price": 149990
+      "title": "Model H.P X360 1030 G4 Laptop (8th Gen Core i7-8565/8GB RAM /256GB SSD/Win 10 Pro/UHD 620 Graphics 13.3-inch Foldable), Silver (Pre-Owned & Tested)",
+      "price": 27899
     },
     {
       "site": "Amazon",
-      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare FHD 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Grey, 1.66kg, [Vostro 3530], 12 Month McAfee, Thin & Light Laptop",
-      "price": 59990
+      "title": "Model H.P x360 1030 G4 Foldable Laptop (Core i7 8th 8565Gen/8GB RAM /256GB SSD/Win 10 Pro/UHD 620 Graphics), 13.3-inch Silver (Pre-Owned & Tested)",
+      "price": 25999
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6\" HD Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Office Home 2024/1 Year ADP Free/Grey/1.6Kg), 82R4011MIN",
+      "price": 45849
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 255R G10 Notebook (AMD Athlon Silver 7120U /8GB/512GB/DOS) 15.6-inch(39.6cm), Anti-Glare, HD Laptop, Radeon Graphics, Silver,1.52kg",
+      "price": 39800
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15, Intel Core 3 14th Gen-100U, 16GB DDR4, 512GB SSD, FHD IPS, 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Carbon Black, 1.63Kg, Thin & Light, Laptop Model NO - Dell 15 DCU5250",
+      "price": 51552
+    },
+    {
+      "site": "Amazon",
+      "title": "QUICLEAN Laptop Cleaner Kit -500ml With 7-In-1 Gadget Cleaning Machine & 350gsm Cloth For All Screen Cleaning | Machine Cleans - Mobile, Laptop, Keyboard, Earbuds & Lens|Cleaner Cloth For Large Screen",
+      "price": 400
     }
   ]
 }
