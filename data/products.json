@@ -1,4 +1,95 @@
 {
-  "last_updated": "2026-05-12T14:00:51.920673",
-  "products": []
+  "last_updated": "2026-05-13T14:09:46.728189",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg, AL15-41, Metal Body, Thin and Light Laptop",
+      "price": 43990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
+      "price": 46900
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 15, Intel Core i3 13th Gen 1315U, 12GB RAM, 512GB SSD, FHD 15.6\", Windows 11, Office Home 2024, Cool Silver, 1.7Kg, X1504VA-BQ331WS, Intel UHD iGPU, Thin & Light, 42Whrs Laptop",
+      "price": 45990
+    },
+    {
+      "site": "Amazon",
+      "title": "Sunchhaya New Book Stand for Reading, Writing, Painting and Used As Laptop Stand for Desk, 360 Degree Rotatable Multi-Functioal Book Reading Stand Adjustable Height-Angle (R51_Brown)",
+      "price": 2915
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
+      "price": 67990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 16, 13th Gen, Intel Core i5-13420H,16GB RAM,512GB SSD,FHD (1920 x 1200) OLED,Win 11,M365 Basic (1Year)*,Backlit Keyboard,Office 2024,Silver,1.88 kg,X1605VA-SH1952WS, Thin & Light Laptop",
+      "price": 61990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, Intel Core Ultra 5 125H (24GB DDR5, 1TB SSD), Micro-Edge, Anti-Glare, FHD, 15''/39.6cm, Win11, M365* Office24, Silver, 1.65kg, FD1458TU, FHD Camera, Backlit Laptop",
+      "price": 76990
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare FHD 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Grey, 1.66kg, [Vostro 3530], 12 Month McAfee, Thin & Light Laptop",
+      "price": 59990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0573TU, FHD Camera w/Shutter Laptop",
+      "price": 52690
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Smartchoice Victus, 13th Gen Intel Core i7-13620H, 8GB RTX 5050, 24GB DDR5(Upgradeable) 1TB SSD, 144Hz, FHD, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.29kg, fa2309TX, RGB Gaming Laptop",
+      "price": 112990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Gaming V16 (2025) 14th Gen,Intel Core 7 240H Gaming Laptop (RTX 4050-6GB/16GB RAM/512GB SSD/Windows 11 Home/16/144Hz/M365*/Office Home 2024, Matte Black,1.95 Kg),V3607VU-RP275WS",
+      "price": 92990
+    },
+    {
+      "site": "Amazon",
+      "title": "𝗛𝗣𝗣𝗿𝗼𝗯𝗼𝗼𝗸Model 430 G3 Business Laptop | 𝗜𝗡𝗧𝗘𝗟i5 6th Gen | 8GB RAM | 256GB SSD | WiFi | Webcam | Win10 Pro (Refab)",
+      "price": 19999
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11 Lifetime Validity,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+      "price": 39999
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Omnibook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x,1TB SSD) 2K OLED,16''/40.6cm, Win11, M365*Office24, Glacier Silver, 1.59kg, fb0001QU, Backlit, Next-Gen AI Laptop",
+      "price": 73489
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire One, Intel Core Celeron N4500, Office 2024 + M365 Basic, 12GB LPDDR4X RAM/ 512GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.3KG, A114-45, Thin and Light Laptop",
+      "price": 38990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo Smartchoice Ideapad 5 2-in-1 13th Gen Intel Core i5-13420H (16GB RAM/512GB SSD/Windows 11/Office Home 2024/WUXGA IPS/14 (35.5cm)/Touchscreen 2-in-1/3Mon.Game Pass/Grey/1.6kg), 83KX0059IN Laptop",
+      "price": 74490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP HyperX OMEN 15, AMD Ryzen 7 260, 8GB-RTX 5050, 24GB DDR5 (Upgradeable), 1TB SSD, 180Hz, 2.5K, 500 nits, 3ms resp time, 15.3''/38.9cm, Win11, Office24, Black, 2.42kg, gb0038AX, RGB, AI Gaming Laptop",
+      "price": 139990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP OmniBook 3 AMD Ryzen AI 5 340 Next Gen AI Laptop, (16GB DDR5, 512GB SSD), Anti-Glare,15.6''/39.6cm FHD, Win11,Office24, Silver,1.7kg, FHD Camera w/Privacy Shutter, fn0007AU",
+      "price": 61990
+    }
+  ]
 }
