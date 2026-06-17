@@ -1,4 +1,95 @@
 {
-  "last_updated": "2026-06-16T16:27:33.207087",
-  "products": []
+  "last_updated": "2026-06-17T14:53:59.964059",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "Acer Smartchoice Aspire One, Intel Core Celeron N4500, Office 2024 + M365 Basic, 12GB LPDDR4X / 256GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.3KG, A114-45, Thin and Light Laptop",
+      "price": 35990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera w/Privacy Shutter, fd0569TU",
+      "price": 49000
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 16,Smartchoice, 13th Gen, Intel Core i5-13420H,16GB RAM,512GB SSD,FHD, OLED,Win 11,M365 Basic (1Y),Backlit Keyboard,Office 2024,Silver,1.88 kg,X1605VA-SH1952WS, Thin & Light Laptop",
+      "price": 62990
+    },
+    {
+      "site": "Amazon",
+      "title": "BKN® Mini Premium Metal Folding Portable Laptop Stand Non-Slip Base Tabletop Risers for 10-17 Inch Laptop & Keyboard & Tablet (Pack of 2pcs)",
+      "price": 267
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11 Lifetime Validity,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+      "price": 44999
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Business Laptop (2026) AMD Ryzen 5 7535U 8GB DDR5 RAM, 512GB SSD, AMD Radeon Graphics, Windows 11 Pro, 15.6\" HD Display, Thin & Light, Turbo Silver, 1.45 kg",
+      "price": 46890
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 Smartchoice, 13th Gen Intel Core i3-1315U(8GB DDR4,512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365(1yr)*Office24, Silver,1.59kg, fd0572TU, FHD Camera w/Shutter, Backlit Laptop",
+      "price": 51990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1255TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",
+      "price": 78990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP OmniBook 3, AMD Ryzen AI 5 330 (24GB DDR5 RAM, 1TB SSD) FHD, Anti-Glare, 15.6''/39.6cm, Win11, Office24, Glacier Silver,1.7kg, fn0074AU, FHD Camera w/Shutter, FPR, Backlit KB, Next Gen AI Laptop",
+      "price": 70990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS TUF A15 (2025), AMD Ryzen 7 7445HS,RTX 3050-4GB,75W TGP,16GB DDR5(Upgradeable Upto 64GB) 512GB SSD,FHD,15.6\",144Hz,RGB Keyboard,Windows 11,Graphite Black,2.3 Kg FA506NCG-HN199W, Gaming Laptop",
+      "price": 68990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 15, Smartchoice,Intel Core i3 13th Gen 1315U, 12GB RAM, 512GB SSD, FHD 15.6\", Win 11, Office 2024, Quiet Blue, 1.7Kg, X1504VA-BQ332WS, Intel UHD iGPU, M365 Basic (1Year)*, 42Whrs Laptop",
+      "price": 50990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Victus, AMD Ryzen 7 7445HS, 4GB RTX 2050, 16GB DDR5(Upgradable) 512GB SSD, FHD, 144Hz, 300 nits, IPS, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.29kg, fb3123AX, Backlit, Gaming Laptop",
+      "price": 66990
+    },
+    {
+      "site": "Amazon",
+      "title": "Certified Latitude 5420 Business Laptop – Core i5-1145G7, 11th Generation 16GB RAM, 256GB SSD, 14” Full HD, Win 11 Pro (16, GB, 512, GB)",
+      "price": 33990
+    },
+    {
+      "site": "Amazon",
+      "title": "BrowseBook 14.1\" FHD IPS Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB RAM | 256GB SSD | Windows 11 | 38Wh | 1.3kg | Grey",
+      "price": 16990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Professional 14 (2026) – Intel Core 5 120U (14th Gen), 16GB RAM, 512GB SSD, Windows 11 Pro, MSO 2024, Copilot Key, Fingerprint Reader, Intel Iris Xe Graphics, 14″ FHD Display, 1.53Kg – Turbo Silver",
+      "price": 61750
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, Intel Core i3-1315U-13th Gen Laptop (8GB DDR4 Ram,512GB SSD) Anti-Glare, Micro-Edge,15.6'\" FHD, Win11,M365 Basic(1yr),Office Home24, Silver,1.59kg, FHD Camera Shutter, 15-fd0569TU",
+      "price": 49490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Victus, AMD Ryzen 7 7445HS, 6GB RTX 4050, 16GB DDR5(Upgradeable) 512GB SSD, 144Hz, IPS, 300nits, FHD, 15.6''/39.6cm, Win11, M365* Office24, Blue, 2.29kg, fb3130AX, Backlit, DTS Audio, Gaming Laptop",
+      "price": 97990
+    },
+    {
+      "site": "Amazon",
+      "title": "Verilux® USB Hub for Laptop with Ethernet RJ45 7 in 1 USB Type C Hub with 4K@60Hz HDMI for Nintendo Switch 2 SD/TF Card Reader PD Charge Multi USB 3.0 Port for MacBook iPhone 17 with 24CM Cable",
+      "price": 1546
+    }
+  ]
 }
