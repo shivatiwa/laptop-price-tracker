@@ -1,4 +1,95 @@
 {
-  "last_updated": "2026-07-06T15:15:43.381193",
-  "products": []
+  "last_updated": "2026-07-07T14:10:27.713909",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "HP 15 Smartchoice, 13th Gen Intel Core i3-1315U(8GB DDR4,512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365(1yr)*Office24, Silver,1.59kg, fd0572TU, FHD Camera w/Shutter, Backlit Laptop",
+      "price": 51990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 15, Smartchoice,Intel Core i3 13th Gen 1315U, 12GB RAM, 512GB SSD, FHD 15.6\", Win 11, Office 2024, Quiet Blue, 1.7Kg, X1504VA-BQ332WS, Intel UHD iGPU, M365 Basic (1Year)*, 42Whrs Laptop",
+      "price": 44990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Smartchoice Aspire One, Intel Core Celeron N4500, Office 2024 + M365 Basic, 12GB LPDDR4X / 256GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.3KG, A114-45, Thin and Light Laptop",
+      "price": 32990
+    },
+    {
+      "site": "Amazon",
+      "title": "BKN® Mini Premium Metal Folding Portable Laptop Stand Non-Slip Base Tabletop Risers for 10-17 Inch Laptop & Keyboard & Tablet (Pack of 2pcs)",
+      "price": 277
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare FHD 15.6\"/39.62cm, Windows 11, Microsoft Office Home 2024, Grey, 1.66kg, [Vostro 3530], 12 Month McAfee, Thin & Light Laptop",
+      "price": 65490
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook 15, Smartchoice,Intel Core i5 13th Gen 13420H,16GB RAM, 512GB SSD, FHD 15.6\",Windows 11, Office Home 2024, Quiet Blue, 1.70 kg, X1502VA-BQ836WS,Intel UHD iGPU, M365 Basic (1Year)* Laptop",
+      "price": 64990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Professional 15 (2026), Intel (i5 14th Gen) Core 5 120U - (8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Pro) Business Laptop/15.6\" FHD/Backlit + Fingerprint/Silver/Copilot Key/1.5kg/MS Office",
+      "price": 56990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (2026), AMD Athlon Dual Core 7120U - (8 GB DDR5/512 GB SSD/AMD Radeon 610M Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" HD Display/Turbo Silver/Copilot Key/1.5kg/MS Office",
+      "price": 40650
+    },
+    {
+      "site": "Amazon",
+      "title": "EBook 11.6\" HD Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB DDR4 | 128GB eMMC + M.2 SSD Expandable Slot | Win 11 Home |31Wh Battery | UHD Graphics 600 | Black",
+      "price": 10990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 Laptop | Intel Core i5-13420H,13th Gen |16GB RAM | 512GB SSD | Win 11 |M365 Basic(1yr)* Office24|Anti-Glare, Micro-Edge, 15.6''/39.6cm|Backlit KB|FHD Camera w/Shutter|1.65kg, Silver -FR0045TU",
+      "price": 65999
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 Laptop, (14th Gen Core i5) Intel Core 5-120U (24GB RAM, 512GB SSD, Win 11, M365 Basic(1yr)* Office24,15.6''/39.6cm FHD Anti-Glare Display, Backlit KB, FHD Camera, Dual Speakers, Silver, 1.59kg)",
+      "price": 70990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, AMD Ryzen 7 5825U, 16GB DDR4, 512GB SSD, 15.6-inch(39.6cm) Anti-Glare, FHD, Radeon Graphics, Backlit KB, 1080p HD cam (Win11, M365 Basic(1yr)*,Office Home24, Silver, 1.69kg) fc0533AU",
+      "price": 57990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Smartchoice Aspire One, AMD Ryzen 3-7320U, Office 2024 + M365 Basic, 8GB LPDDR5 RAM/ 256GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.48KG, A114-43, Thin and Light Laptop",
+      "price": 41990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor 45 Tops (16GB LPDDR5x, 1 TB SSD), 2K 14''/35.6cm, Win11, Office24, Silver, 1.29kg, he0015QU, Multi-Day Battery, AI Laptop",
+      "price": 74990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD), Micro-Edge, Anti-Glare, 15.6''/39.6cm, Win11, M365* Office24, Silver, 1.59kg, fd1225tu, FHD Camera, Dual Speakers Laptop",
+      "price": 51264
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Victus, AMD Ryzen 7 7445HS, 4GB RTX 2050, 16GB DDR5(Upgradeable) 512GB SSD, FHD, 144Hz, 300 nits, IPS, 15.6'', Win11, M365* Office24, Blue, 2.29kg, fb3189ax /3122/ 23ax Backlit, Gaming Laptop",
+      "price": 65990
+    },
+    {
+      "site": "Amazon",
+      "title": "JioBook 11 with Lifetime Office | Android 4G Laptop Mediatek 8788 (JioOS) | Octa-core | 4GB RAM | 64 eMMC Storage | Thin and Light Laptop (11.6 inch, 990 Grams) | Dual Band WiFi + SIM | Blue",
+      "price": 9999
+    },
+    {
+      "site": "Amazon",
+      "title": "cimetech Dual Mode (BT 5.1+2.4G) Wireless Mouse with LED Lights, Silent Portable Lightweight Rechargeable Mouse for Laptop, Compatible with Mac OS/Windows/Chrome OS - Black",
+      "price": 845
+    }
+  ]
 }
