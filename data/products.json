@@ -1,6 +1,11 @@
 {
-  "last_updated": "2026-08-23T12:21:40.272266",
+  "last_updated": "2026-08-24T12:29:58.308038",
   "products": [
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire Lite, AMD Ryzen 3-5400U, 8 GB RAM, 512 GB SSD, Full HD 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 KG, AL15-41, Premium Laptop",
+      "price": 42990
+    },
     {
       "site": "Amazon",
       "title": "ASUS Vivobook 16,Smartchoice, 13th Gen, Intel Core i5-13420H,16GB RAM,512GB SSD,FHD, OLED,Win 11,M365 Basic (1Y),Backlit Keyboard,Office 2024,Silver,1.88 kg,X1605VA-SH1952WS, Thin & Light Laptop",
@@ -13,13 +18,13 @@
     },
     {
       "site": "Amazon",
-      "title": "Acer Aspire Lite, AMD Ryzen 3-5400U, 8 GB RAM, 512 GB SSD, Full HD 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 KG, AL15-41, Premium Laptop",
-      "price": 42990
+      "title": "BKN® Mini Premium Metal Folding Portable Laptop Stand Non-Slip Base Tabletop Risers for 10-17 Inch Laptop & Keyboard & Tablet (Pack of 2pcs)",
+      "price": 274
     },
     {
       "site": "Amazon",
-      "title": "VRPRIME Laptop Cleaner Kit | Combo with 500ML Laptop Screen Cleaner Spray for Keyboard, Mobile Phone, Camera Lens, Computer, Gadgets, Electronics, TV | Large Microfiber Cloth & Brush",
-      "price": 289
+      "title": "Dell 15 SmartChoice (Previously Inspiron), Intel 13th Gen Core i5-1334U, 16GB, 1TB SSD, FHD,15.6\"/39.62cm, Win 11, MSO'24, Silver, 1.62kg, [Dell 15], 12 Month McAfee, Backlit KB, Thin & Light Laptop",
+      "price": 72990
     },
     {
       "site": "Amazon",
@@ -29,12 +34,17 @@
     {
       "site": "Amazon",
       "title": "EBook 11.6\" HD Laptop | Best Student & Office Work Laptop | Celeron N4020 | 4GB DDR4 | 128GB eMMC + M.2 SSD Expandable Slot | Win 11 Home |31Wh Battery | UHD Graphics 600 | Black",
-      "price": 11423
+      "price": 14800
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (2026), AMD Ryzen 3 Quad Core 7335U - (8 GB DDR5/512 GB SSD/AMD Radeon 660M Graphics/Windows 11 Home) Thin and Light Business Laptop/15.6\" Display/Turbo Silver/Copilot Key/1.5kg/MS Office 2024",
+      "price": 47999
     },
     {
       "site": "Amazon",
       "title": "HP Professional 15 (2026), Intel (i3 14th Gen) Core 3 100U - (8 GB DDR5/512 GB SSD/Intel UHD Graphics/Windows 11 Home) Thin & Light Business Laptop/15.6\" Display/Silver/Copilot Key/1.5kg/MSO 2024",
-      "price": 50040
+      "price": 50500
     },
     {
       "site": "Amazon",
@@ -43,13 +53,13 @@
     },
     {
       "site": "Amazon",
-      "title": "HP 15 (2026), AMD Ryzen 3 Quad Core 7335U - (8 GB DDR5/512 GB SSD/AMD Radeon 660M Graphics/Windows 11 Home) Thin and Light Business Laptop/15.6\" Display/Turbo Silver/Copilot Key/1.5kg/MS Office 2024",
-      "price": 48140
+      "title": "HP Professional 15 (2026), Intel (i5 14th Gen) Core 5 120U - (8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Home) Business Laptop/15.6\" FHD/Backlit + Fingerprint/Silver/Copilot Key/1.5kg/MSO 2024",
+      "price": 61490
     },
     {
       "site": "Amazon",
-      "title": "Acer One 15 Smart Laptop AO15-41M-G2 | AMD Ryzen 3 7320U | AMD Radeon 610M Graphics | 8GB LPDDR5 RAM | 256GB NVMe SSD | 15.6\" FHD Display | Windows 11 Home | Silver",
-      "price": 38700
+      "title": "HP 15, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6\"/39.6cm, Win 11, Office 21, Silver, 1.59kg, fc0154AU, AMD Radeon Graphics, 1080p FHD Camera Laptop",
+      "price": 49150
     },
     {
       "site": "Amazon",
@@ -58,23 +68,13 @@
     },
     {
       "site": "Amazon",
-      "title": "HP 15, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6\"/39.6cm, Win 11, Office 21, Silver, 1.59kg, fc0154AU, AMD Radeon Graphics, 1080p FHD Camera Laptop",
-      "price": 49450
+      "title": "Acer Aspire One, Intel Core Celeron N4500, 8GB LPDDR4 RAM/ 256GB SSD, 14.0\"/35.56cm WXGA Display, Intel UHD Graphics, Win 11 Home, Pure Silver, 1.3 Kg, A114-45, Thin and Light Laptop",
+      "price": 35990
     },
     {
       "site": "Amazon",
-      "title": "Lenovo V15 G4 Laptop with AMD Ryzen 5 7520U, 16GB DDR5 RAM, 512GB SSD, 15.6-inch FHD Display, AMD Radeon Graphics, Windows 11 Home, MS Office 2024, Dolby Audio, Arctic Grey, 1 Year Onsite Warranty",
-      "price": 56900
-    },
-    {
-      "site": "Amazon",
-      "title": "HP Professional 15 (2026), Intel (i5 14th Gen) Core 5 120U - (8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Home) Business Laptop/15.6\" FHD/Backlit + Fingerprint/Silver/Copilot Key/1.5kg/MSO 2024",
-      "price": 61740
-    },
-    {
-      "site": "Amazon",
-      "title": "Lenovo 14 (2026), Intel Core i5 13th Gen 13420H - (16 GB DDR5/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" FHD Display/Luna Grey/Copilot Key/1.4 kg/MS Office 2024",
-      "price": 68840
+      "title": "HP Victus, 13th Gen Intel Core i5-13420H, 4GB RTX 2050, 16GB DDR4 (Upgradeable) 512GB SSD, 144Hz, IPS, 300 nits, FHD, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.3kg, fa2703tx Gaming Laptop",
+      "price": 98990
     },
     {
       "site": "Amazon",
@@ -83,8 +83,8 @@
     },
     {
       "site": "Amazon",
-      "title": "ASUS Vivobook 15, (i5 14th Gen) Intel Core 5 120U,Thin & Light Laptop (16GB RAM/512GB SSD/FHD/15.6\"/60Hz/Backlit Keyboard/Windows 11/Office 2021/Cool Silver/1.70 kg) X1504VAP-BQ224WS",
-      "price": 63990
+      "title": "Lenovo V15 G4 Laptop with AMD Ryzen 5 7520U, 16GB DDR5 RAM, 512GB SSD, 15.6-inch FHD Display, AMD Radeon Graphics, Windows 11 Home, MS Office 2024, Dolby Audio, Arctic Grey, 1 Year Onsite Warranty",
+      "price": 56800
     },
     {
       "site": "Amazon",
