@@ -1,4 +1,95 @@
 {
-  "last_updated": "2026-11-01T17:28:23.541583",
-  "products": []
+  "last_updated": "2026-11-02T21:08:53.850559",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire 15,AMD Ryzen 3 3200U Processors, 8GB DDR4 RAM/256GB SSD, 39.62 cm /15.6\" FHD IPS Display, Win 11Home, Light Silver, 1.58 Kg, AS15-39, BL Keyboard, Thin & Light Laptop",
+      "price": 34990
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 16GB DDR4, 512 SSD, Intel UHD Graphics, 15.6\" FHD 120Hz IPS AG 250 nit Display, Win 11 + Office 2024, Black, 1.63Kg",
+      "price": 59990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Vivobook Go 14 (2026),AMD Ryzen 3 30 Processor,AMD Radeon iGPU,8GB RAM,512GB SSD,FHD,14\" (35.5 cm),Windows 11,M365 Basic(1Y)* Office 2024,Mixed Black,1.38 Kg,E1404FA-EB1414WS,Thin & Light Laptop",
+      "price": 48990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (2026), AMD Ryzen 5 Hexa Core 7535U - (8 GB DDR5/512 GB SSD/Radeon 660M Graphics/Windows 11 Home) Thin & Light Business Laptop/15.6\" FHD/Backlit + Fingerprint/Silver/Copilot Key/1.5kg/MSO 2024",
+      "price": 54690
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo IdeaPad Slim 3 Smartchoice 13th Gen Intel Core i7-13620H 15.3 inch (38.8cm) WUXGA IPS Laptop (16GB RAM/512GB SSD/Windows 11/Office 24/Metal A Cover/Backlit Keyboard/Luna Grey/1.6Kg), 83K101JGIN",
+      "price": 81990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB DDR5 Ram, 512 GB SSD PCIe, Windows 11 Lifetime Validity,15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+      "price": 44990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD), Win11, M365* Office24, Micro-Edge, Anti-Glare,15.6''/39.6cm,Silver, 1.59kg,FHD Camera with Privact Shutter, Dual Speakers Laptop-fd0883TU",
+      "price": 53490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (i5 14th Gen), Intel Core 5-120U, 16GB RAM, 512GB SSD, FHD, Anti-Glare, 15.6''/39.6cm, Win11, M365 Basic(1yr), Office24, Silver,1.59kg, fd0664TU, FHD Camera w/Shutter, Backlit Laptop",
+      "price": 72700
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (2026), AMD Ryzen 3 Quad Core 7335U - (8 GB DDR5/512 GB SSD/AMD Radeon 660M Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" FHD/Fingerprint/Silver/Copilot Key/1.5 Kg/MSO 2024",
+      "price": 44500
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Chromebook 14, MediaTek Kompanio 540 (4GB LPDDR5, 128GB UFS) HD, Touch, Anti-Glare, Micro-Edge, 14''/35.6cm, ChromeOS, 100GB Google One(1yr),Modern gray,1.35kg, nm0006MU, HD Camera w/shutter Laptop",
+      "price": 25990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire 5 AI PC, Intel Core Ultra 5 125H Processor,Office 2024 + M365 Basic,16 GB RAM, 512 GB SSD, WUXGA IPS, 14.0\"/35.56 cm, Win 11 Home,Pure Silver,1.2 kg, A514-54H, Backlit KB, Premium Laptop",
+      "price": 69890
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15, AMD Ryzen 7 7730U (16GB DDR4,512GB SSD) Anti-Glare, Micro-Edge,15.6''/39.6cm, FHD, Win11, M365 Basic(1yr),Office Home24,Silver,1.59kg,FHD Camera w/Privacy Shutter, Backlit KB-Laptop, fc0761AU",
+      "price": 70490
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Smartchoice Omnibook 5 OLED (Previously Pavilion), Snapdragon X Processor 45 Tops (16GB LPDDR5x,1TB SSD) 2K,16''/40.6cm, Win11, Office24, Silver, 1.59kg, fb0001QU, Multi-Day Battery AI Laptop",
+      "price": 84990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Victus, 14th Gen Intel Core i5-14450HX, 6GB RTX 3050, 24GB DDR5, 512GB SSD, FHD, 144Hz, IPS, 300 nits, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.3kg, fa2303tx, RGB Gaming Laptop",
+      "price": 96990
+    },
+    {
+      "site": "Amazon",
+      "title": "Primebook WiFi (2026) | 4GB RAM, 64GB Storage (Expandable Upto 512GB) | 11.6-Inch HD IPS Display | MediaTek MT8183 Processor | PrimeOS (Android) | Thin and Light Laptop (1.0 Kg, Type-C Charging)",
+      "price": 14990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire One,AMD Ryzen 5 3500U Processors, 16GB DDR4 RAM/512 SSD, 39.62 cm /15.6\" FHD IPS Display, Win 11Home, Light Blue, 1.58 Kg, A115-39, BL Keyboard, Thin & Light Laptop",
+      "price": 46990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Victus,13th Gen Intel core i7-13650HX, 6GB RTX 4050, 24GB DDR5(Upgradeable), 512GB SSD, 144Hz, 300 nits, 15.6''/39.6cm, Win11, Office24, Mica Silver, 2.29kg, fa2531/2495tx, Xbox pass* Gaming Laptop",
+      "price": 124990
+    },
+    {
+      "site": "Amazon",
+      "title": "Apple 2026 MacBook Neo 13″ Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Indigo",
+      "price": 68990
+    }
+  ]
 }
