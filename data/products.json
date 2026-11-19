@@ -1,4 +1,85 @@
 {
-  "last_updated": "2026-11-18T19:48:13.906655",
-  "products": []
+  "last_updated": "2026-11-19T19:47:27.085683",
+  "products": [
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire 15,AMD Ryzen 3 3200U Processors, 8GB DDR4 RAM/512GB SSD, 39.62 cm /15.6\" FHD IPS Display, Win 11Home, Light Silver, 1.58 Kg, AS15-39, BL Keyboard, Thin & Light Laptop",
+      "price": 42990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Smartchoice Aspire One, AMD Ryzen 5-40, 8GB LPDDR5 RAM/ 256GB SSD, 14.0\"/35.56cm WXGA Display, Win 11 Home, Pure Silver, 1.48KG, A114-43, Thin and Light Laptop",
+      "price": 44990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP Chromebook 14, MediaTek Kompanio 540 (4GB LPDDR5, 128GB UFS) HD, Touch, Anti-Glare, Micro-Edge, 14''/35.6cm, ChromeOS, 100GB Google One(1yr),Modern gray,1.35kg, nm0006MU, HD Camera w/shutter Laptop",
+      "price": 25990
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Chromebook CM1405 (2026), Smartchoice, MediaTek Kompanio 540 Processor, 4GB RAM, 64GB SSD, FHD, 14\"(35.5 cm), 60Hz, Chrome OS, Pure Grey, 1.37 Kg, CM1405CM4A-S60034, Thin & Light Laptop",
+      "price": 28990
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo V14 Laptop, Intel Core i5-13420H 13th Gen Processor, 8GB RAM, 512GB SSD, 14-Inch FHD Display, Windows 11 Pro, MS Office 2024, Business Laptop",
+      "price": 57790
+    },
+    {
+      "site": "Amazon",
+      "title": "ASUS Chromebook CM1405 (2026), Smartchoice, MediaTek Kompanio 540 Processor, 8GB RAM, 128GB SSD, FHD, 14\"(35.5 cm), Chrome OS, Pure Grey, 1.37 Kg, CM1405CM4A-S60033, Thin & Light Laptop",
+      "price": 28990
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer One 15 Smart Laptop AO15-41M-G2 | AMD Ryzen 3 7320U",
+      "price": 37875
+    },
+    {
+      "site": "Amazon",
+      "title": "Primebook WiFi (2026) | 4GB RAM, 64GB Storage (Expandable Upto 512GB) | 11.6-Inch HD IPS Display | MediaTek MT8183 Processor | PrimeOS (Android) | Thin and Light Laptop (1.0 Kg, Type-C Charging)",
+      "price": 14990
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 8GB DDR4, 512 SSD, 15.6\" FHD 120Hz IPS AG 250 nit Display, Win 11 + Office H&S 2024, Carbon Black, 1.63Kg",
+      "price": 57490
+    },
+    {
+      "site": "Amazon",
+      "title": "Lenovo 15 (2026) Intel Core i3 13th Gen 1315U - (8 GB DDR5/512 GB SSD/Intel UHD Graphics/Windows 11 Home) Thin and Light Business Laptop/15.6\" FHD Display/Copilot Key/Luna Grey/1.6 kg/MS Office 2024",
+      "price": 50111
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 15 (2026), AMD Ryzen 3 Quad Core 7335U - (8 GB DDR5/512 GB SSD/AMD Radeon 660M Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" FHD/Fingerprint/Silver/Copilot Key/1.5 Kg/MSO 2024",
+      "price": 44900
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire 3 Laptop A325-45 | 15.6\" (39.62 cm) HD Display | Intel Celeron N4500 | 8GB LPDDR4 RAM | 256GB SSD | Windows 11 Home | Intel UHD Graphics | Pure Silver | 1.7 Kg",
+      "price": 34999
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Aspire 3, AMD Ryzen 3-5300U, 8GB RAM/256GB SSD, 15.6\"/39.62 cm, Full HD IPS Display, Windows 11 Home, AMD Radeon Graphics, Steel Gray, 1.79 KG, A325-42, Premium Thin and Light Laptop",
+      "price": 39990
+    },
+    {
+      "site": "Amazon",
+      "title": "HP 255 G10 Laptop for Home or Work, 16GB RAM DDR5, 512GB SSD, 15.6\" Full HD, Ryzen 3 7335U (Beats Intel i5-1135G7), HDMI, USB-C, Windows 11",
+      "price": 58000
+    },
+    {
+      "site": "Amazon",
+      "title": "Acer Smartchoice Aspire One, Intel Core Celeron N4500, 8GB LPDDR4 RAM/ 256GB SSD, 14.0\"/35.56cm WXGA Display, Intel UHD Graphics, Win 11 Home, Pure Silver, 1.3 Kg, A114-45, Thin and Light Laptop",
+      "price": 35990
+    },
+    {
+      "site": "Amazon",
+      "title": "Dell 15 (Previously Inspiron) Laptop, 14th Gen Intel Core i3/Core 3 100U Processor, 16GB DDR4, 512 SSD, Intel UHD Graphics, 15.6\" FHD 120Hz IPS AG 250 nit Display, Win 11 + Office 2024, Black, 1.63Kg",
+      "price": 67990
+    }
+  ]
 }
